@@ -1,5 +1,6 @@
 # Environnements virtuels
 venv/
+venv_new/
 env/
 .env/
 .venv/
@@ -35,10 +36,17 @@ chroma_db/
 .DS_Store
 Thumbs.db
 
-# Variables d'environnement
+# Variables d'environnement (fichiers sensibles)
 .env
 *.env
+secrets.py
+config_local.py
 
-# Logs
+# Logs et rapports générés
 *.log
 logs/
+extraction_report.json
+
+# Données / PDFs (fichiers volumineux)
+*.pdf
+
