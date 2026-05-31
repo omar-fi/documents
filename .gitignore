@@ -1,0 +1,44 @@
+# Environnements virtuels
+venv/
+env/
+.env/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Modèles et données lourdes
+*.dylib
+*.dll
+*.bin
+*.onnx
+chroma_db/
+*.pkl
+*.pt
+*.pth
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Variables d'environnement
+.env
+*.env
+
+# Logs
+*.log
+logs/
