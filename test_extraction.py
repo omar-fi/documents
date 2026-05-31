@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Test rapide : vérifie l'extraction sur quelques PDFs avant l'ingestion complète.
-Usage: python test_extraction.py
+Usage: python3 test_extraction.py
 """
 import sys
 from pathlib import Path
@@ -43,8 +43,8 @@ def test_file(filename: str):
     doc_type, method = classify_document(filename, text)
     print(f"🏷️  Type détecté: {doc_type} (via {method})")
 
-    # Extraction des champs
-    fields = extract_fields(doc_type, text, filename)
+    # Extraction des champs (avec pdf_path pour extraction par position)
+    fields = extract_fields(doc_type, text, filename, pdf_path=pdf_path)
     print(f"📋 Champs extraits:")
     for key, value in fields.items():
         status = "✅" if value else "⚠️ "
