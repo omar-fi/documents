@@ -1,0 +1,1996 @@
+{
+  "timestamp": "2026-05-30T13:16:53.193256",
+  "pdf_directory": "/Users/omarfilali/Downloads/Documents",
+  "total_fichiers": 157,
+  "traites_avec_succes": 157,
+  "indexes_dans_chroma": 156,
+  "erreurs": [],
+  "par_type": {
+    "BON_DE_COMMANDE": 42,
+    "DEVIS": 21,
+    "FACTURE": 63,
+    "BON_DE_LIVRAISON": 31
+  },
+  "statistiques_chroma": {
+    "total_documents": 156,
+    "par_type": {
+      "FACTURE": 62,
+      "BON_DE_COMMANDE": 42,
+      "BON_DE_LIVRAISON": 31,
+      "DEVIS": 21,
+      "INCONNU": 0
+    },
+    "collection": "documents_financiers",
+    "chroma_dir": "/Users/omarfilali/Downloads/Documents/chroma_db"
+  },
+  "documents": [
+    {
+      "fichier": "BC.pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC",
+        "FOURNISSEUR": "LIVRAISON",
+        "FILIALE": null,
+        "DATE": "31 Mars 2026",
+        "MONTANT_TTC": "149 700,00"
+      }
+    },
+    {
+      "fichier": "Devis D2605-101.pdf",
+      "type": "DEVIS",
+      "champs": {
+        "TYPE_DOCUMENT": "DEVIS",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "DATE": "05/05/2026",
+        "NUM_DEVIS": "D2605-101",
+        "FILIALE": null,
+        "MONTANT_TTC": "58,20"
+      }
+    },
+    {
+      "fichier": "Devis D2605-102.pdf",
+      "type": "DEVIS",
+      "champs": {
+        "TYPE_DOCUMENT": "DEVIS",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "DATE": "17/05/2026",
+        "NUM_DEVIS": "D2605-102",
+        "FILIALE": "PIÈCES MOTEURS INDUSTRIELS LAMIKAL",
+        "MONTANT_TTC": "92,76"
+      }
+    },
+    {
+      "fichier": "Devis D2605-103.pdf",
+      "type": "DEVIS",
+      "champs": {
+        "TYPE_DOCUMENT": "DEVIS",
+        "FOURNISSEUR": "DE SOUDURE AVANCÉE TSUB",
+        "DATE": "26/05/2026",
+        "NUM_DEVIS": "D2605-103",
+        "FILIALE": "SOCIÉTÉ DE SOUDURE AVANCÉE TSUB",
+        "MONTANT_TTC": "82,44"
+      }
+    },
+    {
+      "fichier": "Devis D2605-104.pdf",
+      "type": "DEVIS",
+      "champs": {
+        "TYPE_DOCUMENT": "DEVIS",
+        "FOURNISSEUR": "DE LOGISTIQUE INTERNATIONALE LAMIKAL SOUDAN",
+        "DATE": "09/05/2026",
+        "NUM_DEVIS": "D2605-104",
+        "FILIALE": "SOCIÉTÉ DE LOGISTIQUE INTERNATIONALE LAMIKAL SOUDAN",
+        "MONTANT_TTC": "139,80"
+      }
+    },
+    {
+      "fichier": "Devis D2605-105.pdf",
+      "type": "DEVIS",
+      "champs": {
+        "TYPE_DOCUMENT": "DEVIS",
+        "FOURNISSEUR": "DE CONSEIL & AUDIT MINES REG",
+        "DATE": "07/05/2026",
+        "NUM_DEVIS": "D2605-105",
+        "FILIALE": "SOCIÉTÉ DE CONSEIL & AUDIT MINES REG",
+        "MONTANT_TTC": "238,92"
+      }
+    },
+    {
+      "fichier": "Devis D2605-106.pdf",
+      "type": "DEVIS",
+      "champs": {
+        "TYPE_DOCUMENT": "DEVIS",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "DATE": "06/05/2026",
+        "NUM_DEVIS": "D2605-106",
+        "FILIALE": null,
+        "MONTANT_TTC": "55,32"
+      }
+    },
+    {
+      "fichier": "Devis D2605-107.pdf",
+      "type": "DEVIS",
+      "champs": {
+        "TYPE_DOCUMENT": "DEVIS",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "DATE": "13/05/2026",
+        "NUM_DEVIS": "D2605-107",
+        "FILIALE": "SOLUTIONS ÉNERGIE SOLAIRE LAMIKAL",
+        "MONTANT_TTC": "123,72"
+      }
+    },
+    {
+      "fichier": "Devis D2605-108.pdf",
+      "type": "DEVIS",
+      "champs": {
+        "TYPE_DOCUMENT": "DEVIS",
+        "FOURNISSEUR": "DE SOUDURE HAUTE PRÉCISION TSUB",
+        "DATE": "21/05/2026",
+        "NUM_DEVIS": "D2605-108",
+        "FILIALE": "SOCIÉTÉ DE SOUDURE HAUTE PRÉCISION TSUB",
+        "MONTANT_TTC": "80,40"
+      }
+    },
+    {
+      "fichier": "Devis D2605-109.pdf",
+      "type": "DEVIS",
+      "champs": {
+        "TYPE_DOCUMENT": "DEVIS",
+        "FOURNISSEUR": "DE POMPAGE DU SUD TSUB",
+        "DATE": "01/05/2026",
+        "NUM_DEVIS": "D2605-109",
+        "FILIALE": "SOCIÉTÉ DE POMPAGE DU SUD TSUB",
+        "MONTANT_TTC": "97,56"
+      }
+    },
+    {
+      "fichier": "Devis D2605-110 - SOCIT DE B¶TIMENT ET TRAVAUX.pdf",
+      "type": "DEVIS",
+      "champs": {
+        "TYPE_DOCUMENT": "DEVIS",
+        "FOURNISSEUR": "DE BÂTIMENT ET TRAVAUX DEVIS",
+        "DATE": "16/05/2026",
+        "NUM_DEVIS": "D2605-110",
+        "FILIALE": "VALIDITÉ",
+        "MONTANT_TTC": "141 000.00"
+      }
+    },
+    {
+      "fichier": "Devis D2605-110.pdf",
+      "type": "DEVIS",
+      "champs": {
+        "TYPE_DOCUMENT": "DEVIS",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "DATE": "15/05/2026",
+        "NUM_DEVIS": "D2605-110",
+        "FILIALE": null,
+        "MONTANT_TTC": "66,36"
+      }
+    },
+    {
+      "fichier": "Devis D2605-111.pdf",
+      "type": "DEVIS",
+      "champs": {
+        "TYPE_DOCUMENT": "DEVIS",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "DATE": "03/05/2026",
+        "NUM_DEVIS": "D2605-111",
+        "FILIALE": null,
+        "MONTANT_TTC": "64,20"
+      }
+    },
+    {
+      "fichier": "Devis D2605-112.pdf",
+      "type": "DEVIS",
+      "champs": {
+        "TYPE_DOCUMENT": "DEVIS",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "DATE": "09/05/2026",
+        "NUM_DEVIS": "D2605-112",
+        "FILIALE": "MAROC TRUCKS & BUSES TSUB",
+        "MONTANT_TTC": "40,20"
+      }
+    },
+    {
+      "fichier": "Devis D2605-113.pdf",
+      "type": "DEVIS",
+      "champs": {
+        "TYPE_DOCUMENT": "DEVIS",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "DATE": "16/05/2026",
+        "NUM_DEVIS": "D2605-113",
+        "FILIALE": null,
+        "MONTANT_TTC": "141,36"
+      }
+    },
+    {
+      "fichier": "Devis D2605-114.pdf",
+      "type": "DEVIS",
+      "champs": {
+        "TYPE_DOCUMENT": "DEVIS",
+        "FOURNISSEUR": "DE FORAGE MODERNE",
+        "DATE": "10/05/2026",
+        "NUM_DEVIS": "D2605-114",
+        "FILIALE": null,
+        "MONTANT_TTC": "81,12"
+      }
+    },
+    {
+      "fichier": "Devis D2605-115.pdf",
+      "type": "DEVIS",
+      "champs": {
+        "TYPE_DOCUMENT": "DEVIS",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "DATE": "05/05/2026",
+        "NUM_DEVIS": "D2605-115",
+        "FILIALE": null,
+        "MONTANT_TTC": "101,76"
+      }
+    },
+    {
+      "fichier": "Devis D2605-116.pdf",
+      "type": "DEVIS",
+      "champs": {
+        "TYPE_DOCUMENT": "DEVIS",
+        "FOURNISSEUR": "Route de l'Aéroport, Casablanca Avenue des FAR, Casablanca, Maroc",
+        "DATE": "22/05/2026",
+        "NUM_DEVIS": "D2605-116",
+        "FILIALE": "MAROC TRUCKS & BUSES MANAGEM SA",
+        "MONTANT_TTC": "52,20"
+      }
+    },
+    {
+      "fichier": "Devis D2605-117.pdf",
+      "type": "DEVIS",
+      "champs": {
+        "TYPE_DOCUMENT": "DEVIS",
+        "FOURNISSEUR": "DE NETTOYAGE PROFESSIONNEL",
+        "DATE": "27/05/2026",
+        "NUM_DEVIS": "D2605-117",
+        "FILIALE": null,
+        "MONTANT_TTC": "110,88"
+      }
+    },
+    {
+      "fichier": "Devis D2605-118.pdf",
+      "type": "DEVIS",
+      "champs": {
+        "TYPE_DOCUMENT": "DEVIS",
+        "FOURNISSEUR": "DE LOGISTIQUE INTERNATIONALE AGM GUINÉE",
+        "DATE": "26/05/2026",
+        "NUM_DEVIS": "D2605-118",
+        "FILIALE": "SOCIÉTÉ DE LOGISTIQUE INTERNATIONALE AGM GUINÉE",
+        "MONTANT_TTC": "96,72"
+      }
+    },
+    {
+      "fichier": "Devis D2605-119.pdf",
+      "type": "DEVIS",
+      "champs": {
+        "TYPE_DOCUMENT": "DEVIS",
+        "FOURNISSEUR": "DE CLIMATISATION INDUS MANAGEM INTERNATIONAL",
+        "DATE": "14/05/2026",
+        "NUM_DEVIS": "D2605-119",
+        "FILIALE": "SOCIÉTÉ DE CLIMATISATION INDUS MANAGEM INTERNATIONAL",
+        "MONTANT_TTC": "122,28"
+      }
+    },
+    {
+      "fichier": "Devis D2605-120.pdf",
+      "type": "DEVIS",
+      "champs": {
+        "TYPE_DOCUMENT": "DEVIS",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "DATE": "08/05/2026",
+        "NUM_DEVIS": "D2605-120",
+        "FILIALE": null,
+        "MONTANT_TTC": "64,20"
+      }
+    },
+    {
+      "fichier": "FCT.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": null,
+        "DATE": null,
+        "FOURNISSEUR": null,
+        "FILIALE": null,
+        "MONTANT_TTC": null,
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": null
+      }
+    },
+    {
+      "fichier": "Facture F260-111.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-111",
+        "DATE": "25/05/2026",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "FILIALE": null,
+        "MONTANT_TTC": "6,20",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026011"
+      }
+    },
+    {
+      "fichier": "Facture F260-112.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-112",
+        "DATE": "09/05/2026",
+        "FOURNISSEUR": "Zone Industrielle, Jorf Lasfar Avenue des FAR, Casablanca, Maroc",
+        "FILIALE": null,
+        "MONTANT_TTC": "4,80",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026012"
+      }
+    },
+    {
+      "fichier": "Facture F260-113.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-113",
+        "DATE": "14/05/2026",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "FILIALE": null,
+        "MONTANT_TTC": "22,00",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026013"
+      }
+    },
+    {
+      "fichier": "Facture F260-114.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-114",
+        "DATE": "06/05/2026",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "FILIALE": null,
+        "MONTANT_TTC": "45,00",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026014"
+      }
+    },
+    {
+      "fichier": "Facture F260-115.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-115",
+        "DATE": "01/05/2026",
+        "FOURNISSEUR": "MANAGEM SA",
+        "FILIALE": null,
+        "MONTANT_TTC": "7,40",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026015"
+      }
+    },
+    {
+      "fichier": "Facture F260-116.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-116",
+        "DATE": "18/05/2026",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "FILIALE": null,
+        "MONTANT_TTC": "18,50",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026016"
+      }
+    },
+    {
+      "fichier": "Facture F260-117.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-117",
+        "DATE": "07/05/2026",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "FILIALE": null,
+        "MONTANT_TTC": "3,20",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026017"
+      }
+    },
+    {
+      "fichier": "Facture F260-118.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-118",
+        "DATE": "12/05/2026",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "FILIALE": null,
+        "MONTANT_TTC": "7,40",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026018"
+      }
+    },
+    {
+      "fichier": "Facture F260-119.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-119",
+        "DATE": "23/05/2026",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "FILIALE": null,
+        "MONTANT_TTC": "4,50",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026019"
+      }
+    },
+    {
+      "fichier": "Facture F260-120.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-120",
+        "DATE": "27/05/2026",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "FILIALE": null,
+        "MONTANT_TTC": "45,00",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026020"
+      }
+    },
+    {
+      "fichier": "Facture F260-121.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-121",
+        "DATE": "09/05/2026",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "FILIALE": null,
+        "MONTANT_TTC": "9,80",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026021"
+      }
+    },
+    {
+      "fichier": "Facture F260-122.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-122",
+        "DATE": "17/05/2026",
+        "FOURNISSEUR": "REG",
+        "FILIALE": null,
+        "MONTANT_TTC": "22,00",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026022"
+      }
+    },
+    {
+      "fichier": "Facture F260-123.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-123",
+        "DATE": "23/05/2026",
+        "FOURNISSEUR": "DE PEINTURE DU MAGHREB MANUB",
+        "FILIALE": null,
+        "MONTANT_TTC": "2,50",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026023"
+      }
+    },
+    {
+      "fichier": "Facture F260-124.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-124",
+        "DATE": "25/05/2026",
+        "FOURNISSEUR": "DE FORAGE DU NORD",
+        "FILIALE": null,
+        "MONTANT_TTC": "22,00",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026024"
+      }
+    },
+    {
+      "fichier": "Facture F260-125.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-125",
+        "DATE": "14/05/2026",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "FILIALE": null,
+        "MONTANT_TTC": "3,10",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026025"
+      }
+    },
+    {
+      "fichier": "Facture F260-126.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-126",
+        "DATE": "16/05/2026",
+        "FOURNISSEUR": "DE PEINTURE DU MAGHREB",
+        "FILIALE": null,
+        "MONTANT_TTC": "32,00",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026026"
+      }
+    },
+    {
+      "fichier": "Facture F260-127.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-127",
+        "DATE": "06/05/2026",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "FILIALE": null,
+        "MONTANT_TTC": "22,00",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026027"
+      }
+    },
+    {
+      "fichier": "Facture F260-128.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-128",
+        "DATE": "06/05/2026",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "FILIALE": null,
+        "MONTANT_TTC": "19,00",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026028"
+      }
+    },
+    {
+      "fichier": "Facture F260-129.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-129",
+        "DATE": "18/05/2026",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "FILIALE": null,
+        "MONTANT_TTC": "7,50",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026029"
+      }
+    },
+    {
+      "fichier": "Facture F260-132.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-132",
+        "DATE": "22/05/2026",
+        "FOURNISSEUR": "DE CONSEIL & AUDIT MINES",
+        "FILIALE": null,
+        "MONTANT_TTC": "1,20",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026032"
+      }
+    },
+    {
+      "fichier": "Facture F260-133.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-133",
+        "DATE": "20/05/2026",
+        "FOURNISSEUR": "DE FORAGE DU NORD TSUB",
+        "FILIALE": null,
+        "MONTANT_TTC": "8,80",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026033"
+      }
+    },
+    {
+      "fichier": "Facture F260-134.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-134",
+        "DATE": "10/05/2026",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "FILIALE": null,
+        "MONTANT_TTC": "1,20",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026034"
+      }
+    },
+    {
+      "fichier": "Facture F260-135.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-135",
+        "DATE": "16/05/2026",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "FILIALE": null,
+        "MONTANT_TTC": "7,40",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026035"
+      }
+    },
+    {
+      "fichier": "Facture F260-136.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-136",
+        "DATE": "03/05/2026",
+        "FOURNISSEUR": "DE BÂTIMENT ET TRAVAUX",
+        "FILIALE": null,
+        "MONTANT_TTC": "12,00",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026036"
+      }
+    },
+    {
+      "fichier": "Facture F260-137.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-137",
+        "DATE": "03/05/2026",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "FILIALE": null,
+        "MONTANT_TTC": "5,60",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026037"
+      }
+    },
+    {
+      "fichier": "Facture F260-138.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-138",
+        "DATE": "02/05/2026",
+        "FOURNISSEUR": "DE BÂTIMENT ET TRAVAUX",
+        "FILIALE": null,
+        "MONTANT_TTC": "7,40",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026038"
+      }
+    },
+    {
+      "fichier": "Facture F260-139.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-139",
+        "DATE": "16/05/2026",
+        "FOURNISSEUR": "DE LOGISTIQUE INTERNATIONALE TSUB",
+        "FILIALE": null,
+        "MONTANT_TTC": "3,50",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026039"
+      }
+    },
+    {
+      "fichier": "Facture F260-140.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-140",
+        "DATE": "10/05/2026",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "FILIALE": null,
+        "MONTANT_TTC": "4,20",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026040"
+      }
+    },
+    {
+      "fichier": "Facture F2605-10.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-101",
+        "DATE": "15/05/2026",
+        "FOURNISSEUR": "Zone Portuaire, Tanger Med Avenue des FAR, Casablanca, Maroc",
+        "FILIALE": null,
+        "MONTANT_TTC": "1,20",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026001"
+      }
+    },
+    {
+      "fichier": "Facture F2605-101.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-101",
+        "DATE": "02/05/2026",
+        "FOURNISSEUR": "DE CLIMATISATION INDUS",
+        "FILIALE": null,
+        "MONTANT_TTC": "9,80",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026001"
+      }
+    },
+    {
+      "fichier": "Facture F2605-102.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-102",
+        "DATE": "17/05/2026",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "FILIALE": null,
+        "MONTANT_TTC": "3,20",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026002"
+      }
+    },
+    {
+      "fichier": "Facture F2605-103.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-103",
+        "DATE": "09/05/2026",
+        "FOURNISSEUR": "Technopark, Casablanca Avenue des FAR, Casablanca, Maroc",
+        "FILIALE": null,
+        "MONTANT_TTC": "4,50",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026003"
+      }
+    },
+    {
+      "fichier": "Facture F2605-104.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-104",
+        "DATE": "27/05/2026",
+        "FOURNISSEUR": "DE CONSEIL & AUDIT MINES REMINEX",
+        "FILIALE": null,
+        "MONTANT_TTC": "7,50",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026004"
+      }
+    },
+    {
+      "fichier": "Facture F2605-105.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-105",
+        "DATE": "14/05/2026",
+        "FOURNISSEUR": "DES PIÈCES DÉTACHÉES HQ",
+        "FILIALE": null,
+        "MONTANT_TTC": "8,50",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026005"
+      }
+    },
+    {
+      "fichier": "Facture F2605-106.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-106",
+        "DATE": "19/05/2026",
+        "FOURNISSEUR": "DE PEINTURE INDUSTRIELLE REG",
+        "FILIALE": null,
+        "MONTANT_TTC": "3,20",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026006"
+      }
+    },
+    {
+      "fichier": "Facture F2605-107.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-107",
+        "DATE": "26/05/2026",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "FILIALE": null,
+        "MONTANT_TTC": "2,80",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026007"
+      }
+    },
+    {
+      "fichier": "Facture F2605-108.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-108",
+        "DATE": "20/05/2026",
+        "FOURNISSEUR": "DES PIÈCES DÉTACHÉES HQ TSUB",
+        "FILIALE": null,
+        "MONTANT_TTC": "3,50",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026008"
+      }
+    },
+    {
+      "fichier": "Facture F2605-109.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-109",
+        "DATE": "13/05/2026",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "FILIALE": null,
+        "MONTANT_TTC": "4,20",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026009"
+      }
+    },
+    {
+      "fichier": "Facture F2605-11.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-110",
+        "DATE": "05/05/2026",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "FILIALE": null,
+        "MONTANT_TTC": "1,20",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026010"
+      }
+    },
+    {
+      "fichier": "Facture F2605-110.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-110",
+        "DATE": "06/05/2026",
+        "FOURNISSEUR": "Boulevard Zerktouni, Casablanca Avenue des FAR, Casablanca, Maroc",
+        "FILIALE": null,
+        "MONTANT_TTC": "8,80",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026010"
+      }
+    },
+    {
+      "fichier": "Facture F2605-111.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-111",
+        "DATE": "08/05/2026",
+        "FOURNISSEUR": "DE LEVAGE MODERNE MANAGEM SA",
+        "FILIALE": null,
+        "MONTANT_TTC": "7,40",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026011"
+      }
+    },
+    {
+      "fichier": "Facture F2605-112.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-112",
+        "DATE": "06/05/2026",
+        "FOURNISSEUR": "TSUB",
+        "FILIALE": null,
+        "MONTANT_TTC": "4,50",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026012"
+      }
+    },
+    {
+      "fichier": "Facture F2605-113.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-113",
+        "DATE": "07/05/2026",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "FILIALE": null,
+        "MONTANT_TTC": "3,10",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026013"
+      }
+    },
+    {
+      "fichier": "Facture F2605-114.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-114",
+        "DATE": "04/05/2026",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "FILIALE": null,
+        "MONTANT_TTC": "92,70",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026014"
+      }
+    },
+    {
+      "fichier": "Facture F2605-115.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-115",
+        "DATE": "04/05/2026",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "FILIALE": null,
+        "MONTANT_TTC": "5,60",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026015"
+      }
+    },
+    {
+      "fichier": "Facture F2605-116.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-116",
+        "DATE": "16/05/2026",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "FILIALE": null,
+        "MONTANT_TTC": "19,00",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026016"
+      }
+    },
+    {
+      "fichier": "Facture F2605-117.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-117",
+        "DATE": "07/05/2026",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "FILIALE": null,
+        "MONTANT_TTC": "4,50",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026017"
+      }
+    },
+    {
+      "fichier": "Facture F2605-118.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-118",
+        "DATE": "24/05/2026",
+        "FOURNISSEUR": "DE GÉNIE CIVIL IMITER",
+        "FILIALE": null,
+        "MONTANT_TTC": "5,60",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026018"
+      }
+    },
+    {
+      "fichier": "Facture F2605-119.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-119",
+        "DATE": "04/05/2026",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "FILIALE": null,
+        "MONTANT_TTC": "5,60",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026019"
+      }
+    },
+    {
+      "fichier": "Facture F2605-12.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-102",
+        "DATE": "02/05/2026",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "FILIALE": null,
+        "MONTANT_TTC": "2,50",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026002"
+      }
+    },
+    {
+      "fichier": "Facture F2605-120.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-120",
+        "DATE": "15/05/2026",
+        "FOURNISSEUR": "DES PIÈCES DÉTACHÉES HQ",
+        "FILIALE": null,
+        "MONTANT_TTC": "1,20",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026020"
+      }
+    },
+    {
+      "fichier": "Facture F2605-13.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-103",
+        "DATE": "18/05/2026",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "FILIALE": null,
+        "MONTANT_TTC": "8,80",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026003"
+      }
+    },
+    {
+      "fichier": "Facture F2605-130.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-130",
+        "DATE": "02/05/2026",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "FILIALE": null,
+        "MONTANT_TTC": "7,40",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026030"
+      }
+    },
+    {
+      "fichier": "Facture F2605-131.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-131",
+        "DATE": "19/05/2026",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "FILIALE": null,
+        "MONTANT_TTC": "3,20",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026031"
+      }
+    },
+    {
+      "fichier": "Facture F2605-14.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-104",
+        "DATE": "28/05/2026",
+        "FOURNISSEUR": "DE TRAITEMENT DES EAUX TSUB",
+        "FILIALE": null,
+        "MONTANT_TTC": "15,50",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026004"
+      }
+    },
+    {
+      "fichier": "Facture F2605-15.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-105",
+        "DATE": "28/05/2026",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "FILIALE": null,
+        "MONTANT_TTC": "19,00",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026005"
+      }
+    },
+    {
+      "fichier": "Facture F2605-16.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-106",
+        "DATE": "05/05/2026",
+        "FOURNISSEUR": "DES PIÈCES DÉTACHÉES HQ",
+        "FILIALE": null,
+        "MONTANT_TTC": "4,80",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026006"
+      }
+    },
+    {
+      "fichier": "Facture F2605-17.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-107",
+        "DATE": "11/05/2026",
+        "FOURNISSEUR": "DE QUINCAILLERIE GÉNÉRALE REG",
+        "FILIALE": null,
+        "MONTANT_TTC": "19,00",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026007"
+      }
+    },
+    {
+      "fichier": "Facture F2605-18.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-108",
+        "DATE": "10/05/2026",
+        "FOURNISSEUR": "DE POMPAGE MODERNE",
+        "FILIALE": null,
+        "MONTANT_TTC": "22,00",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026008"
+      }
+    },
+    {
+      "fichier": "Facture F2605-19.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": "F2605-109",
+        "DATE": "19/05/2026",
+        "FOURNISSEUR": "du Groupe MANAGEM - Site Exploitation",
+        "FILIALE": null,
+        "MONTANT_TTC": "14,00",
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": "BC-2026009"
+      }
+    },
+    {
+      "fichier": "bc(1).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9100",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "15/04/2026",
+        "MONTANT_TTC": "88,80"
+      }
+    },
+    {
+      "fichier": "bc(16).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9015",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "25/04/2026",
+        "MONTANT_TTC": "54,72"
+      }
+    },
+    {
+      "fichier": "bc(17).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9016",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "15/04/2026",
+        "MONTANT_TTC": "80,28"
+      }
+    },
+    {
+      "fichier": "bc(18).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9017",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "01/04/2026",
+        "MONTANT_TTC": "142,56"
+      }
+    },
+    {
+      "fichier": "bc(19).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9018",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "18/04/2026",
+        "MONTANT_TTC": "127,44"
+      }
+    },
+    {
+      "fichier": "bc(2).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9001",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "09/04/2026",
+        "MONTANT_TTC": "70,56"
+      }
+    },
+    {
+      "fichier": "bc(20).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9019",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "17/04/2026",
+        "MONTANT_TTC": "132,96"
+      }
+    },
+    {
+      "fichier": "bc(21).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9004",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "12/04/2026",
+        "MONTANT_TTC": "64,80"
+      }
+    },
+    {
+      "fichier": "bc(22).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9005",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "08/04/2026",
+        "MONTANT_TTC": "58,92"
+      }
+    },
+    {
+      "fichier": "bc(23).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9003",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "15/04/2026",
+        "MONTANT_TTC": "109,80"
+      }
+    },
+    {
+      "fichier": "bc(24).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9006",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "09/04/2026",
+        "MONTANT_TTC": "130,20"
+      }
+    },
+    {
+      "fichier": "bc(25).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9007",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "28/04/2026",
+        "MONTANT_TTC": "101,52"
+      }
+    },
+    {
+      "fichier": "bc(26).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9008",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "28/04/2026",
+        "MONTANT_TTC": "150,24"
+      }
+    },
+    {
+      "fichier": "bc(27).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9009",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "04/04/2026",
+        "MONTANT_TTC": "39,60"
+      }
+    },
+    {
+      "fichier": "bc(28).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9010",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "16/04/2026",
+        "MONTANT_TTC": "93,84"
+      }
+    },
+    {
+      "fichier": "bc(29).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9011",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "28/04/2026",
+        "MONTANT_TTC": "20,04"
+      }
+    },
+    {
+      "fichier": "bc(3).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9002",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "11/04/2026",
+        "MONTANT_TTC": "27,96"
+      }
+    },
+    {
+      "fichier": "bc(30).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9012",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "07/04/2026",
+        "MONTANT_TTC": "123,36"
+      }
+    },
+    {
+      "fichier": "bc(31).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9013",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "04/04/2026",
+        "MONTANT_TTC": "223,56"
+      }
+    },
+    {
+      "fichier": "bc(32).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9014",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "11/04/2026",
+        "MONTANT_TTC": "47,52"
+      }
+    },
+    {
+      "fichier": "bc(40).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9039",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "09/04/2026",
+        "MONTANT_TTC": "40,92"
+      }
+    },
+    {
+      "fichier": "bc(41).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9040",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "05/04/2026",
+        "MONTANT_TTC": "58,08"
+      }
+    },
+    {
+      "fichier": "bc(42).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9020",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "28/04/2026",
+        "MONTANT_TTC": "141,72"
+      }
+    },
+    {
+      "fichier": "bc(43).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9021",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "14/04/2026",
+        "MONTANT_TTC": "130,92"
+      }
+    },
+    {
+      "fichier": "bc(44).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9022",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "20/04/2026",
+        "MONTANT_TTC": "118,08"
+      }
+    },
+    {
+      "fichier": "bc(45).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9023",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "20/04/2026",
+        "MONTANT_TTC": "38,16"
+      }
+    },
+    {
+      "fichier": "bc(46).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9024",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "12/04/2026",
+        "MONTANT_TTC": "102,48"
+      }
+    },
+    {
+      "fichier": "bc(47).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9025",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "16/04/2026",
+        "MONTANT_TTC": "83,64"
+      }
+    },
+    {
+      "fichier": "bc(48).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9026",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "07/04/2026",
+        "MONTANT_TTC": "43,08"
+      }
+    },
+    {
+      "fichier": "bc(49).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9027",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "11/04/2026",
+        "MONTANT_TTC": "49,92"
+      }
+    },
+    {
+      "fichier": "bc(50).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9028",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "12/04/2026",
+        "MONTANT_TTC": "416,40"
+      }
+    },
+    {
+      "fichier": "bc(51).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9029",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "21/04/2026",
+        "MONTANT_TTC": "51,36"
+      }
+    },
+    {
+      "fichier": "bc(52).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9030",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "11/04/2026",
+        "MONTANT_TTC": "102,60"
+      }
+    },
+    {
+      "fichier": "bc(53).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9031",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "24/04/2026",
+        "MONTANT_TTC": "19,32"
+      }
+    },
+    {
+      "fichier": "bc(54).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9032",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "23/04/2026",
+        "MONTANT_TTC": "72,48"
+      }
+    },
+    {
+      "fichier": "bc(55).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9033",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "24/04/2026",
+        "MONTANT_TTC": "76,20"
+      }
+    },
+    {
+      "fichier": "bc(56).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9034",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "04/04/2026",
+        "MONTANT_TTC": "15,36"
+      }
+    },
+    {
+      "fichier": "bc(57).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9035",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "13/04/2026",
+        "MONTANT_TTC": "120,60"
+      }
+    },
+    {
+      "fichier": "bc(58).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9036",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "28/04/2026",
+        "MONTANT_TTC": "289,44"
+      }
+    },
+    {
+      "fichier": "bc(59).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9037",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "08/04/2026",
+        "MONTANT_TTC": "49,20"
+      }
+    },
+    {
+      "fichier": "bc(60).pdf",
+      "type": "BON_DE_COMMANDE",
+      "champs": {
+        "NUM_BON_COMMANDE": "BC-2026-9038",
+        "FOURNISSEUR": "MANAGEM BON DE COMMANDE",
+        "FILIALE": null,
+        "DATE": "21/04/2026",
+        "MONTANT_TTC": "36,48"
+      }
+    },
+    {
+      "fichier": "bl(10).pdf",
+      "type": "BON_DE_LIVRAISON",
+      "champs": {
+        "TYPE_DOCUMENT": "BON_DE_LIVRAISON",
+        "FOURNISSEUR": "Contrôleur Visa et signature Client",
+        "DATE": "20/10/2026",
+        "NUM_BON_LIVRAISON": "anca",
+        "FILIALE": "compétents.",
+        "MONTANT_TTC": "9,45"
+      }
+    },
+    {
+      "fichier": "bl(11).pdf",
+      "type": "BON_DE_LIVRAISON",
+      "champs": {
+        "TYPE_DOCUMENT": "BON_DE_LIVRAISON",
+        "FOURNISSEUR": "Contrôleur Visa et signature Client",
+        "DATE": "05/10/2026",
+        "NUM_BON_LIVRAISON": "anca",
+        "FILIALE": "compétents.",
+        "MONTANT_TTC": "179,34"
+      }
+    },
+    {
+      "fichier": "bl(12).pdf",
+      "type": "BON_DE_LIVRAISON",
+      "champs": {
+        "TYPE_DOCUMENT": "BON_DE_LIVRAISON",
+        "FOURNISSEUR": "Contrôleur Visa et signature Client",
+        "DATE": "13/10/2026",
+        "NUM_BON_LIVRAISON": "anca",
+        "FILIALE": "compétents.",
+        "MONTANT_TTC": "11,55"
+      }
+    },
+    {
+      "fichier": "bl(13).pdf",
+      "type": "BON_DE_LIVRAISON",
+      "champs": {
+        "TYPE_DOCUMENT": "BON_DE_LIVRAISON",
+        "FOURNISSEUR": "Contrôleur Visa et signature Client",
+        "DATE": "13/10/2026",
+        "NUM_BON_LIVRAISON": "anca",
+        "FILIALE": "compétents.",
+        "MONTANT_TTC": "383.29"
+      }
+    },
+    {
+      "fichier": "bl(14).pdf",
+      "type": "BON_DE_LIVRAISON",
+      "champs": {
+        "TYPE_DOCUMENT": "BON_DE_LIVRAISON",
+        "FOURNISSEUR": "Contrôleur Visa et signature Client",
+        "DATE": "26/10/2026",
+        "NUM_BON_LIVRAISON": "anca",
+        "FILIALE": "compétents.",
+        "MONTANT_TTC": "17,52"
+      }
+    },
+    {
+      "fichier": "bl(15).pdf",
+      "type": "BON_DE_LIVRAISON",
+      "champs": {
+        "TYPE_DOCUMENT": "BON_DE_LIVRAISON",
+        "FOURNISSEUR": "Contrôleur Visa et signature Client",
+        "DATE": "21/10/2026",
+        "NUM_BON_LIVRAISON": "anca",
+        "FILIALE": "compétents.",
+        "MONTANT_TTC": "11,08"
+      }
+    },
+    {
+      "fichier": "bl(16).pdf",
+      "type": "BON_DE_LIVRAISON",
+      "champs": {
+        "TYPE_DOCUMENT": "BON_DE_LIVRAISON",
+        "FOURNISSEUR": "Contrôleur Visa et signature Client",
+        "DATE": "26/10/2026",
+        "NUM_BON_LIVRAISON": "anca",
+        "FILIALE": "compétents.",
+        "MONTANT_TTC": "13,79"
+      }
+    },
+    {
+      "fichier": "bl(17).pdf",
+      "type": "BON_DE_LIVRAISON",
+      "champs": {
+        "TYPE_DOCUMENT": "BON_DE_LIVRAISON",
+        "FOURNISSEUR": "Contrôleur Visa et signature Client",
+        "DATE": "15/10/2026",
+        "NUM_BON_LIVRAISON": "anca",
+        "FILIALE": "compétents.",
+        "MONTANT_TTC": "19,43"
+      }
+    },
+    {
+      "fichier": "bl(18).pdf",
+      "type": "BON_DE_LIVRAISON",
+      "champs": {
+        "TYPE_DOCUMENT": "BON_DE_LIVRAISON",
+        "FOURNISSEUR": "Contrôleur Visa et signature Client",
+        "DATE": "23/10/2026",
+        "NUM_BON_LIVRAISON": "anca",
+        "FILIALE": "compétents.",
+        "MONTANT_TTC": "681.41"
+      }
+    },
+    {
+      "fichier": "bl(19).pdf",
+      "type": "BON_DE_LIVRAISON",
+      "champs": {
+        "TYPE_DOCUMENT": "BON_DE_LIVRAISON",
+        "FOURNISSEUR": "Contrôleur Visa et signature Client",
+        "DATE": "19/10/2026",
+        "NUM_BON_LIVRAISON": "anca",
+        "FILIALE": "compétents.",
+        "MONTANT_TTC": "10,04"
+      }
+    },
+    {
+      "fichier": "bl(20).pdf",
+      "type": "BON_DE_LIVRAISON",
+      "champs": {
+        "TYPE_DOCUMENT": "BON_DE_LIVRAISON",
+        "FOURNISSEUR": "Contrôleur Visa et signature Client",
+        "DATE": "17/10/2026",
+        "NUM_BON_LIVRAISON": "anca",
+        "FILIALE": "compétents.",
+        "MONTANT_TTC": "497,88"
+      }
+    },
+    {
+      "fichier": "bl(21).pdf",
+      "type": "BON_DE_LIVRAISON",
+      "champs": {
+        "TYPE_DOCUMENT": "BON_DE_LIVRAISON",
+        "FOURNISSEUR": "Contrôleur Visa et signature Client",
+        "DATE": "05/10/2026",
+        "NUM_BON_LIVRAISON": "anca",
+        "FILIALE": "compétents.",
+        "MONTANT_TTC": "476,64"
+      }
+    },
+    {
+      "fichier": "bl(22).pdf",
+      "type": "BON_DE_LIVRAISON",
+      "champs": {
+        "TYPE_DOCUMENT": "BON_DE_LIVRAISON",
+        "FOURNISSEUR": "Contrôleur Visa et signature Client",
+        "DATE": "05/10/2026",
+        "NUM_BON_LIVRAISON": "anca",
+        "FILIALE": "compétents.",
+        "MONTANT_TTC": "11,52"
+      }
+    },
+    {
+      "fichier": "bl(23).pdf",
+      "type": "BON_DE_LIVRAISON",
+      "champs": {
+        "TYPE_DOCUMENT": "BON_DE_LIVRAISON",
+        "FOURNISSEUR": "Contrôleur Visa et signature Client",
+        "DATE": "16/10/2026",
+        "NUM_BON_LIVRAISON": "anca",
+        "FILIALE": "compétents.",
+        "MONTANT_TTC": "18,10"
+      }
+    },
+    {
+      "fichier": "bl(24).pdf",
+      "type": "BON_DE_LIVRAISON",
+      "champs": {
+        "TYPE_DOCUMENT": "BON_DE_LIVRAISON",
+        "FOURNISSEUR": "Contrôleur Visa et signature Client",
+        "DATE": "23/10/2026",
+        "NUM_BON_LIVRAISON": "anca",
+        "FILIALE": "compétents.",
+        "MONTANT_TTC": "217,76"
+      }
+    },
+    {
+      "fichier": "bl(25).pdf",
+      "type": "BON_DE_LIVRAISON",
+      "champs": {
+        "TYPE_DOCUMENT": "BON_DE_LIVRAISON",
+        "FOURNISSEUR": "Contrôleur Visa et signature Client",
+        "DATE": "12/10/2026",
+        "NUM_BON_LIVRAISON": "anca",
+        "FILIALE": "compétents.",
+        "MONTANT_TTC": "622,08"
+      }
+    },
+    {
+      "fichier": "bl(26).pdf",
+      "type": "BON_DE_LIVRAISON",
+      "champs": {
+        "TYPE_DOCUMENT": "BON_DE_LIVRAISON",
+        "FOURNISSEUR": "Contrôleur Visa et signature Client",
+        "DATE": "09/10/2026",
+        "NUM_BON_LIVRAISON": "anca",
+        "FILIALE": "compétents.",
+        "MONTANT_TTC": "115,20"
+      }
+    },
+    {
+      "fichier": "bl(28).pdf",
+      "type": "BON_DE_LIVRAISON",
+      "champs": {
+        "TYPE_DOCUMENT": "BON_DE_LIVRAISON",
+        "FOURNISSEUR": "Contrôleur Visa et signature Client",
+        "DATE": "18/10/2026",
+        "NUM_BON_LIVRAISON": "anca",
+        "FILIALE": "compétents.",
+        "MONTANT_TTC": "19,99"
+      }
+    },
+    {
+      "fichier": "bl(29).pdf",
+      "type": "BON_DE_LIVRAISON",
+      "champs": {
+        "TYPE_DOCUMENT": "BON_DE_LIVRAISON",
+        "FOURNISSEUR": "Contrôleur Visa et signature Client",
+        "DATE": "22/10/2026",
+        "NUM_BON_LIVRAISON": "anca",
+        "FILIALE": "compétents.",
+        "MONTANT_TTC": "347,41"
+      }
+    },
+    {
+      "fichier": "bl(37).pdf",
+      "type": "BON_DE_LIVRAISON",
+      "champs": {
+        "TYPE_DOCUMENT": "BON_DE_LIVRAISON",
+        "FOURNISSEUR": "Contrôleur Visa et signature Client",
+        "DATE": "17/10/2026",
+        "NUM_BON_LIVRAISON": "anca",
+        "FILIALE": "compétents.",
+        "MONTANT_TTC": "11,83"
+      }
+    },
+    {
+      "fichier": "bl(38).pdf",
+      "type": "BON_DE_LIVRAISON",
+      "champs": {
+        "TYPE_DOCUMENT": "BON_DE_LIVRAISON",
+        "FOURNISSEUR": "Contrôleur Visa et signature Client",
+        "DATE": "15/10/2026",
+        "NUM_BON_LIVRAISON": "anca",
+        "FILIALE": "compétents.",
+        "MONTANT_TTC": "3,77"
+      }
+    },
+    {
+      "fichier": "bl(39).pdf",
+      "type": "BON_DE_LIVRAISON",
+      "champs": {
+        "TYPE_DOCUMENT": "BON_DE_LIVRAISON",
+        "FOURNISSEUR": "Contrôleur Visa et signature Client",
+        "DATE": "10/10/2026",
+        "NUM_BON_LIVRAISON": "anca",
+        "FILIALE": "compétents.",
+        "MONTANT_TTC": "4,95"
+      }
+    },
+    {
+      "fichier": "bl(40).pdf",
+      "type": "BON_DE_LIVRAISON",
+      "champs": {
+        "TYPE_DOCUMENT": "BON_DE_LIVRAISON",
+        "FOURNISSEUR": "Contrôleur Visa et signature Client",
+        "DATE": "13/10/2026",
+        "NUM_BON_LIVRAISON": "anca",
+        "FILIALE": "compétents.",
+        "MONTANT_TTC": "17,28"
+      }
+    },
+    {
+      "fichier": "bl(41).pdf",
+      "type": "BON_DE_LIVRAISON",
+      "champs": {
+        "TYPE_DOCUMENT": "BON_DE_LIVRAISON",
+        "FOURNISSEUR": "Contrôleur Visa et signature Client",
+        "DATE": "06/10/2026",
+        "NUM_BON_LIVRAISON": "anca",
+        "FILIALE": "compétents.",
+        "MONTANT_TTC": "505,38"
+      }
+    },
+    {
+      "fichier": "bl(42).pdf",
+      "type": "BON_DE_LIVRAISON",
+      "champs": {
+        "TYPE_DOCUMENT": "BON_DE_LIVRAISON",
+        "FOURNISSEUR": "Contrôleur Visa et signature Client",
+        "DATE": "03/10/2026",
+        "NUM_BON_LIVRAISON": "anca",
+        "FILIALE": "compétents.",
+        "MONTANT_TTC": "2,43"
+      }
+    },
+    {
+      "fichier": "bl(43).pdf",
+      "type": "BON_DE_LIVRAISON",
+      "champs": {
+        "TYPE_DOCUMENT": "BON_DE_LIVRAISON",
+        "FOURNISSEUR": "Contrôleur Visa et signature Client",
+        "DATE": "10/10/2026",
+        "NUM_BON_LIVRAISON": "anca",
+        "FILIALE": "compétents.",
+        "MONTANT_TTC": "4,65"
+      }
+    },
+    {
+      "fichier": "bl(44).pdf",
+      "type": "BON_DE_LIVRAISON",
+      "champs": {
+        "TYPE_DOCUMENT": "BON_DE_LIVRAISON",
+        "FOURNISSEUR": "Contrôleur Visa et signature Client",
+        "DATE": "01/10/2026",
+        "NUM_BON_LIVRAISON": "anca",
+        "FILIALE": "compétents.",
+        "MONTANT_TTC": "5,55"
+      }
+    },
+    {
+      "fichier": "bl(45).pdf",
+      "type": "BON_DE_LIVRAISON",
+      "champs": {
+        "TYPE_DOCUMENT": "BON_DE_LIVRAISON",
+        "FOURNISSEUR": "Contrôleur Visa et signature Client",
+        "DATE": "05/10/2026",
+        "NUM_BON_LIVRAISON": "anca",
+        "FILIALE": "compétents.",
+        "MONTANT_TTC": "1,83"
+      }
+    },
+    {
+      "fichier": "bl(46).pdf",
+      "type": "BON_DE_LIVRAISON",
+      "champs": {
+        "TYPE_DOCUMENT": "BON_DE_LIVRAISON",
+        "FOURNISSEUR": "Contrôleur Visa et signature Client",
+        "DATE": "01/10/2026",
+        "NUM_BON_LIVRAISON": "anca",
+        "FILIALE": "compétents.",
+        "MONTANT_TTC": "626,34"
+      }
+    },
+    {
+      "fichier": "bl(47).pdf",
+      "type": "BON_DE_LIVRAISON",
+      "champs": {
+        "TYPE_DOCUMENT": "BON_DE_LIVRAISON",
+        "FOURNISSEUR": "Contrôleur Visa et signature Client",
+        "DATE": "07/10/2026",
+        "NUM_BON_LIVRAISON": "anca",
+        "FILIALE": "compétents.",
+        "MONTANT_TTC": "174,78"
+      }
+    },
+    {
+      "fichier": "bl2.pdf",
+      "type": "BON_DE_LIVRAISON",
+      "champs": {
+        "TYPE_DOCUMENT": "BON_DE_LIVRAISON",
+        "FOURNISSEUR": "CamScanner",
+        "DATE": null,
+        "NUM_BON_LIVRAISON": "2",
+        "FILIALE": null,
+        "MONTANT_TTC": null
+      }
+    },
+    {
+      "fichier": "facture3.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": null,
+        "DATE": null,
+        "FOURNISSEUR": "CamScanner",
+        "FILIALE": null,
+        "MONTANT_TTC": null,
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": null
+      }
+    },
+    {
+      "fichier": "facture5.pdf",
+      "type": "FACTURE",
+      "champs": {
+        "TYPE_DOCUMENT": "FACTURE",
+        "NUM_FACTURE": null,
+        "DATE": null,
+        "FOURNISSEUR": "CamScanner",
+        "FILIALE": null,
+        "MONTANT_TTC": null,
+        "NUM_CONTRAT": null,
+        "NUM_BON_COMMANDE": null
+      }
+    }
+  ]
+}
